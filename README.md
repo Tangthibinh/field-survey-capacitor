@@ -1,13 +1,5 @@
 # VKU Field Survey — Offline Data Collection (PWA & Capacitor 7 Android)
 
-[![PWA Ready](https://img.shields.io/badge/PWA-Installable-blue.svg)](https://web.dev/progressive-web-apps/)
-[![IndexedDB](https://img.shields.io/badge/Storage-Dexie%20IndexedDB-brightgreen.svg)](https://dexie.org/)
-[![Capacitor](https://img.shields.io/badge/Platform-Capacitor%207%20Android-blueviolet.svg)](https://capacitorjs.com/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages%20%26%20Workers%20KV-F38020.svg)](https://workers.cloudflare.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-An offline-first field survey mobile & web application designed specifically for facilities inspectors at **Vietnam-Korea University of Information and Communication Technology (VKU)** campus. Built with modern Hybrid Mobile architecture (WebView + Native Bridge) to operate reliably in network-denied environments (basements, remote laboratories, electrical rooms) with zero data loss.
-
 ---
 
 
