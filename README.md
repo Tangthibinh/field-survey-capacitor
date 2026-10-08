@@ -10,20 +10,9 @@ An offline-first field survey mobile & web application designed specifically for
 
 ---
 
-### 🌐 Live Production Deliverables
 
-| Hạng Mục | Đường Dẫn / Tệp Bàn Giao | Mô Tả |
-|---|---|---|
-| **🌐 Live Production Web App (Primary)** | [https://vku-field-survey-capacitor.pages.dev](https://vku-field-survey-capacitor.pages.dev) | Cloudflare Pages HTTPS PWA |
-| **🌐 Live Production Web App (Mirror)** | [https://camle-vku-field-survey.pages.dev](https://camle-vku-field-survey.pages.dev) | Tên miền phụ đồng bộ tức thì |
-| **☁️ Central Cloud Edge API** | [https://vku-field-survey-capacitor.lecam.workers.dev](https://vku-field-survey-capacitor.lecam.workers.dev) | Cloudflare Worker + KV Storage |
-| **💻 GitHub Repository** | [https://github.com/CAMLC25/vku-field-survey-capacitor](https://github.com/CAMLC25/vku-field-survey-capacitor) | Toàn bộ mã nguồn & lịch sử commit |
-| **📦 Native Android APK** | [`vku-field-survey-debug.apk`](./vku-field-survey-debug.apk) | File cài đặt Android (~7.4 MB) |
-| **📄 Báo Cáo Kỹ Thuật (Word)** | [`TECHNICAL_REPORT.docx`](./TECHNICAL_REPORT.docx) | Bản Word đầy đủ 7 chuyên đề |
-| **📑 Báo Cáo Kỹ Thuật (PDF)** | [`TECHNICAL_REPORT.pdf`](./TECHNICAL_REPORT.pdf) | Bản PDF in ấn trình bày đẹp mắt |
-| **📝 Báo Cáo Kỹ Thuật (Markdown)** | [`TECHNICAL_REPORT.md`](./TECHNICAL_REPORT.md) | Văn bản Markdown chi tiết kèm sơ đồ |
 
-**Tác giả / Sinh viên thực hiện:** **Lê Cảm** (Mã SV: **23IT022**) — **100% Solo Contribution**  
+**Tác giả / Sinh viên thực hiện:** **TĂNG THỊ BÌNH** (Mã SV: **23IT.EB011**) — **100% Solo Contribution**  
 **Đơn vị:** Trường Đại học Công nghệ Thông tin & Truyền thông Việt - Hàn (VKU)  
 **Học phần:** Phát triển Ứng dụng Di động Đa nền tảng (Cross-Platform Mobile App Development) — **Mini-Project 1**
 
@@ -237,5 +226,5 @@ npx cap open android
 ---
 
 *Đà Nẵng, Ngày 21 Tháng 09 Năm 2026*  
-**Sinh viên thực hiện:** **Lê Cảm — Mã SV: 23IT022**  
+**Sinh viên thực hiện:** **TĂNG THỊ BÌNH — Mã SV: 23IT.EB011**  
 *Trường Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn (VKU)*
